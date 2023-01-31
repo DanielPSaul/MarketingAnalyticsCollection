@@ -1,7 +1,7 @@
 # MarketingAnalyticsCollection
 ### Marketing Analytics Collection
 
-**Concepts:** Marketing Analytics, Statistics, Data Visualization
+**Concepts:** Marketing Analytics, Statistics, Data Visualization, Machine Learning
 
 **Software & Languages:** Tableau, SPSS
 
